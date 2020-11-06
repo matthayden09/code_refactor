@@ -22,6 +22,10 @@ assets/images/online-reputation-management.jpg
 assets/images/search-engine-optimization.jpg
 assets/images/social-media-marketing.jpg
 
+* Screenshot
+
+assets/images/Screen Shot 2020-11-06 at 1.28.52 PM.png
+
 * URL
 
 https://matthayden09.github.io/homework_1/
